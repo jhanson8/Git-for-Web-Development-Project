@@ -146,4 +146,6 @@ Stretch Questions
 
     5. In your own words, explain the box model. What is the fix for the box model?
     The box model in CSS consist of the content in the middle of the box, then the padding, border, and margin parts of the box. The model allows us to add spacing and borders around elements.
-    According to pressupinc.com the model has its limitations (it is not responsive, etc.) and that the fix for this is box:sizing:border box
+
+    According to pressupinc.com the model has its limitiations (it is not responsive, etc.) and that the fix for this is box:sizing:border box
+
